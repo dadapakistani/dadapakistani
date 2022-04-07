@@ -47,7 +47,7 @@ logo = """
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mlove
 \033[1;96mYouTube \033[1;93m: \033[1;92mPakistani Hackers
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/dadapakistani/dadpakistani
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/dadapakistani/dada
 \033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/dadapakistani
 \033[1;91m======================================="""
 def tik():
@@ -68,7 +68,7 @@ print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mdadapakistani
 \033[1;96mYouTube \033[1;93m: \033[1;92mdadapakistani
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/dadapakistani/dadapakistani
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/dadapakistani/dada
 \033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/dadapakistani
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
