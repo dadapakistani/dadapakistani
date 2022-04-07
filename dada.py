@@ -47,8 +47,8 @@ logo = """
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mlove
 \033[1;96mYouTube \033[1;93m: \033[1;92mPakistani Hackers
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
-\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/dadapakistani/dadpakistani
+\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/dadapakistani
 \033[1;91m======================================="""
 def tik():
 	titik = ['.   ','..  ','... ']
